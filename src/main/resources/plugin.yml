@@ -1,0 +1,4 @@
+name: TestAPI
+version: '${project.version}'
+main: com.github.kuripasanda.testapi.TestAPI
+api-version: 1.17
